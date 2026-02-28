@@ -2,7 +2,7 @@
 
 ## 👥 Team Details
 
-- **Team Name:** *(your team name)*
+- **Team Name:** *Metric Maverics*
 - **Members:**
   Sai priya Bondugula
   Praneeth Katta
