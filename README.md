@@ -4,11 +4,11 @@
 
 - **Team Name:** *Metric Maverics*
 - **Members:**
-  Sai priya Bondugula
-  Praneeth Katta
-  Bikki Manikanta
-  Sivasai Vajja
-  Rasagna Chakka
+  Sai priya Bondugula,
+  Praneeth Katta,
+  Bikki Manikanta,
+  Sivasai Vajja,
+  Rasagna Chakka.
 - **Domain Category:** Reusable Accelarators & Frameworks
 - **Demo Video:** *(Sharepoint / Drive URL of your MVP demo)*
 
@@ -117,17 +117,11 @@ pbi-validation-engine/
 │
 ├── core/
 │   └── comparison.py            # ComparisonEngine — scalar & visual result comparison
-│
-├── stop_manager.py              # Thread-safe cancellation token manager
-│
 ├── templates/
 │   └── index.html               # Single-page frontend (SSE log, forms, results)
 │
 ├── architecture/
-│   └── architecture_diagram.png # System architecture diagram
-│
-└── data/
-    └── sample_dataset.csv       # Optional sample data for testing
+    └── architecture_diagram.png # System architecture diagram
 ```
 
 ---
