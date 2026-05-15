@@ -1,19 +1,5 @@
 # ⚡ Power BI Validation Engine
 
-## 👥 Team Details
-
-- **Team Name:** *Metric Maverics*
-- **Members:**
-  Sai priya Bondugula,
-  Praneeth Katta,
-  Bikki Manikanta,
-  Sivasai Vajja,
-  Rasagna Chakka.
-- **Domain Category:** Reusable Accelarators & Frameworks
-- **Demo Video:** *(Sharepoint / Drive URL of your MVP demo)*
-
----
-
 ## 🎯 Problem Statement
 
 Data teams and BI engineers face a critical trust problem:
